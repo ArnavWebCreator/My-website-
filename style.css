@@ -1,0 +1,14 @@
+#a {color:skyblue}
+#b {
+  color: white;
+  margin-left: 20px;
+  text-align: center;
+  background-image:linear-gradient(to left, black, #202020, #282828);
+}
+body {background-image:linear-gradient(to left, cyan, teal);}
+#c {align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
